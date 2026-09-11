@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# MiniOS persisted state (runtime data, not source)
+*.state.json
+state.json
+.minios/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
